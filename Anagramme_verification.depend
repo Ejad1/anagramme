@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1675168267 source:e:\fichiers\programmation\c\anagramme_verification\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
